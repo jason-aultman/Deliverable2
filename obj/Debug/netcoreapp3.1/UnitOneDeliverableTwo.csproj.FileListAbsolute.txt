@@ -1,0 +1,11 @@
+C:\Users\jason\source\repos\UnitOneDeliverableTwo\bin\Debug\netcoreapp3.1\UnitOneDeliverableTwo.exe
+C:\Users\jason\source\repos\UnitOneDeliverableTwo\bin\Debug\netcoreapp3.1\UnitOneDeliverableTwo.deps.json
+C:\Users\jason\source\repos\UnitOneDeliverableTwo\bin\Debug\netcoreapp3.1\UnitOneDeliverableTwo.runtimeconfig.json
+C:\Users\jason\source\repos\UnitOneDeliverableTwo\bin\Debug\netcoreapp3.1\UnitOneDeliverableTwo.runtimeconfig.dev.json
+C:\Users\jason\source\repos\UnitOneDeliverableTwo\bin\Debug\netcoreapp3.1\UnitOneDeliverableTwo.dll
+C:\Users\jason\source\repos\UnitOneDeliverableTwo\bin\Debug\netcoreapp3.1\UnitOneDeliverableTwo.pdb
+C:\Users\jason\source\repos\UnitOneDeliverableTwo\obj\Debug\netcoreapp3.1\UnitOneDeliverableTwo.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\UnitOneDeliverableTwo\obj\Debug\netcoreapp3.1\UnitOneDeliverableTwo.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\UnitOneDeliverableTwo\obj\Debug\netcoreapp3.1\UnitOneDeliverableTwo.AssemblyInfo.cs
+C:\Users\jason\source\repos\UnitOneDeliverableTwo\obj\Debug\netcoreapp3.1\UnitOneDeliverableTwo.dll
+C:\Users\jason\source\repos\UnitOneDeliverableTwo\obj\Debug\netcoreapp3.1\UnitOneDeliverableTwo.pdb
